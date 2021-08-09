@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NitroTechDev
+- 👀 I’m interested in c++, rust, golang, assembly!
+- 🌱 I’m currently learning at MIT for computer science and computer engineering.
+- 💞️ I’m looking to collaborate on nothing as of now!
+- 📫 How to reach me contact me on discord at Nitro#9325
